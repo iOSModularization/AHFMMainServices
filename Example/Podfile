@@ -1,5 +1,9 @@
 use_frameworks!
 
+source 'https://github.com/iOSModularization/AHFMSpecs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
+
 target 'AHFMMainServices_Example' do
   pod 'AHFMMainServices', :path => '../'
 

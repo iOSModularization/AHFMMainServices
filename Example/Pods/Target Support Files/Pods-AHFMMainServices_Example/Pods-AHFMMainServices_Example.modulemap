@@ -1,0 +1,6 @@
+framework module Pods_AHFMMainServices_Example {
+  umbrella header "Pods-AHFMMainServices_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
